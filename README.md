@@ -19,3 +19,23 @@
 - Uart0통신을 통해 블루투스에서 TC275에 입력을 넣고 Uart3통신을 통해 TC275에서 컴퓨터 내의 putty에 출력을 보내어 키보드의 입력값에 따라 코드들이 정상적으로 구현되게끔 한다.
 - 차량의 바퀴 역할을 담당하는 모터의 정방향, 역방향에 따른 회전에 따라서 모형 차량의 주행 방향에 어떤 영향을 끼치는지 하드웨어적인 측면에서도 공부한다.
 
+# 3. System_Architecture
+<p align="center">
+  <img src="/Architecture/System_Architecture.png" alt="HardWare_Architecture">
+</p>
+
+# 4. Hardware_Architecture
+<p align="center">
+  <img src="/Architecture/Hardware_Architecture.png" alt="HardWare_Architecture">
+</p>
+
+# 5. Software_Architecture_1
+<p align="center">
+  <img src="/Architecture/Software_Architecture_1.png" alt="HardWare_Architecture">
+</p>
+
+# 6. Software_Architecture_2
+<p align="center">
+  <img src="/Architecture/Software_Architecture_2.png" alt="HardWare_Architecture">
+</p>
+
